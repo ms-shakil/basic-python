@@ -1,0 +1,16 @@
+{
+  "name": "Data of students",
+  "total": 5,
+  "districts": [
+    { "name": "comilla", "count": 2 },
+    { "name": "dhaka", "count": 2 },
+    { "name": "gazipur", "count": 1 }
+  ],
+  "students": [
+    { "id": "534453", "name": "shakil", "age": "34", "district": "comilla" },
+    { "id": "645", "name": "mainuddin", "age": "34", "district": "dhaka" },
+    { "id": "153", "name": "jilan", "age": "23", "district": "comilla" },
+    { "id": "653", "name": "rakib", "age": "23", "district": "dhaka" },
+    { "id": "76543", "name": "asif", "age": "36", "district": "gazipur" }
+  ]
+}

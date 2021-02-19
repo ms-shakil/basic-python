@@ -1,0 +1,14 @@
+{
+  "name": "student data",
+  "total": 3,
+  "district": [
+    { "name": "comilla", "conunt_data": 1 },
+    { "name": "dhaka", "conunt_data": 1 },
+    { "name": "gazipur", "conunt_data": 1 }
+  ],
+  "student": [
+    { "id": "11", "name": "shakil", "age": 23, "district": "comilla" },
+    { "id": "23", "name": "main", "age": 234, "district": "dhaka" },
+    { "id": "245", "name": "fahad", "age": 34, "district": "gazipur" }
+  ]
+}

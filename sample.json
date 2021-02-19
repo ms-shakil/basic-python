@@ -1,0 +1,46 @@
+{
+    "name": "List of engineers",
+    "total": 5,
+    "districts": [
+        {
+            "name": "dhaka",
+            "count": 2
+        },
+        {
+            "name": "comilla",
+            "count": 3
+        }
+    ],
+    "engineers": [
+        {
+            "id": 123,
+            "name": "soeone",
+            "age": 20,
+            "district": "dhaka"
+        },
+        {
+            "id": 124,
+            "name": "semtwo",
+            "age": 22,
+            "district": "dhaka"
+        },
+        {
+            "id": 213,
+            "name": "soemno",
+            "age": 21,
+            "district": "comilla"
+        },
+        {
+            "id": 214,
+            "name": "osemwot",
+            "age": 22,
+            "district": "comilla"
+        },
+        {
+            "id": 224,
+            "name": "omseowt",
+            "age": 22,
+            "district": "comilla"
+        }
+    ]
+}
