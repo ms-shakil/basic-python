@@ -9,7 +9,7 @@ while i <34:
     print(i)
     i+=2
 
-dictonary
+ #dictonary
 
 dic={"name":"shakil","age":23,"class":13,"district":"comilla"}
 print(len(dic))
